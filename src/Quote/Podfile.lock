@@ -1,0 +1,28 @@
+PODS:
+  - Signature (0.2.0)
+  - SwiftQRScanner (0.1.4)
+
+DEPENDENCIES:
+  - Signature
+  - SwiftQRScanner (from `https://github.com/vinodiOS/SwiftQRScanner`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Signature
+
+EXTERNAL SOURCES:
+  SwiftQRScanner:
+    :git: https://github.com/vinodiOS/SwiftQRScanner
+
+CHECKOUT OPTIONS:
+  SwiftQRScanner:
+    :commit: 4d5959dfe31ecbe3d3b16751b6dd8e5899d2d799
+    :git: https://github.com/vinodiOS/SwiftQRScanner
+
+SPEC CHECKSUMS:
+  Signature: b0f9e9240f7e4f7825a2a8c33cad81ac209c1a7a
+  SwiftQRScanner: 4e5fd0f29c7a8888998de191d10bb4d38a1ee34a
+
+PODFILE CHECKSUM: 246a6fd93a364eadb0532b1742afccc9ed52d896
+
+COCOAPODS: 1.8.4
